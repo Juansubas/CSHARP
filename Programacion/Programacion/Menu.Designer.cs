@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.btnGestionClientes = new System.Windows.Forms.Button();
+            this.btnAdult = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnGestionClientes
@@ -42,11 +43,22 @@
             this.btnGestionClientes.UseVisualStyleBackColor = true;
             this.btnGestionClientes.Click += new System.EventHandler(this.button1_Click);
             // 
+            // btnAdult
+            // 
+            this.btnAdult.Location = new System.Drawing.Point(422, 96);
+            this.btnAdult.Name = "btnAdult";
+            this.btnAdult.Size = new System.Drawing.Size(124, 55);
+            this.btnAdult.TabIndex = 1;
+            this.btnAdult.Text = "Adulto o Menor";
+            this.btnAdult.UseVisualStyleBackColor = true;
+            this.btnAdult.Click += new System.EventHandler(this.btnAdult_Click);
+            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(605, 245);
+            this.Controls.Add(this.btnAdult);
             this.Controls.Add(this.btnGestionClientes);
             this.Name = "Menu";
             this.Text = "Menu";
@@ -57,5 +69,6 @@
         #endregion
 
         private Button btnGestionClientes;
+        private Button btnAdult;
     }
 }
