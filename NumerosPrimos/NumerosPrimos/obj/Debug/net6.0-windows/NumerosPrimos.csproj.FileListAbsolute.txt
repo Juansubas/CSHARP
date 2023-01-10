@@ -1,0 +1,17 @@
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.exe
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.deps.json
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.dll
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\bin\Debug\net6.0-windows\NumerosPrimos.pdb
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.Form1.resources
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.csproj.GenerateResource.cache
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.dll
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\refint\NumerosPrimos.dll
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.pdb
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\NumerosPrimos.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\NumerosPrimos\NumerosPrimos\obj\Debug\net6.0-windows\ref\NumerosPrimos.dll
