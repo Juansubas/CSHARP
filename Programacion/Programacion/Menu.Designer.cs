@@ -30,6 +30,7 @@
         {
             this.btnGestionClientes = new System.Windows.Forms.Button();
             this.btnAdult = new System.Windows.Forms.Button();
+            this.btnNumber = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnGestionClientes
@@ -53,11 +54,22 @@
             this.btnAdult.UseVisualStyleBackColor = true;
             this.btnAdult.Click += new System.EventHandler(this.btnAdult_Click);
             // 
+            // btnNumber
+            // 
+            this.btnNumber.Location = new System.Drawing.Point(252, 33);
+            this.btnNumber.Name = "btnNumber";
+            this.btnNumber.Size = new System.Drawing.Size(124, 48);
+            this.btnNumber.TabIndex = 2;
+            this.btnNumber.Text = "Lista Numero";
+            this.btnNumber.UseVisualStyleBackColor = true;
+            this.btnNumber.Click += new System.EventHandler(this.btnNumber_Click);
+            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(605, 245);
+            this.Controls.Add(this.btnNumber);
             this.Controls.Add(this.btnAdult);
             this.Controls.Add(this.btnGestionClientes);
             this.Name = "Menu";
@@ -70,5 +82,6 @@
 
         private Button btnGestionClientes;
         private Button btnAdult;
+        private Button btnNumber;
     }
 }

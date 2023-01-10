@@ -18,5 +18,11 @@
             Form edad = new Edad();
             edad.Show();
         }
+
+        private void btnNumber_Click(object sender, EventArgs e)
+        {
+            Form listNumber = new ListNumber();
+            listNumber.Show();
+        }
     }
 }
