@@ -11,7 +11,10 @@ namespace OddEvenNumbers
         {
             int number = Int32.Parse(txtNumber.Text);
 
-            if(number % 2 == 0 )
+            DialogResult result = number % 2 == 0 ? MessageBox.Show("Su numero es par: " + number) : MessageBox.Show("Su numero es impar: " + number);
+
+            /*
+            if (number % 2 == 0 )
             {
                 MessageBox.Show("Su numero es par: " + number);
             }
@@ -19,6 +22,7 @@ namespace OddEvenNumbers
             {
                 MessageBox.Show("Su numero es impar: " + number);
             }
+             */
         }
     }
 }

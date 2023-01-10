@@ -1,0 +1,17 @@
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0-windows\CarritoDeCompras.exe
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0-windows\CarritoDeCompras.deps.json
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0-windows\CarritoDeCompras.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0-windows\CarritoDeCompras.dll
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\bin\Debug\net6.0-windows\CarritoDeCompras.pdb
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.Form1.resources
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.csproj.GenerateResource.cache
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.dll
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\refint\CarritoDeCompras.dll
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.pdb
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\CarritoDeCompras.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\CarritoDeCompras\CarritoDeCompras\obj\Debug\net6.0-windows\ref\CarritoDeCompras.dll
