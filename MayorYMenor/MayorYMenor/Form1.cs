@@ -27,36 +27,36 @@ namespace MayorYMenor
 
         private int calcularMayor(int a, int b, int c)
         {
-            int numeroIntermedio = a;
+            int numeroMayor = a;
 
-            if (b > numeroIntermedio)
+            if (b > numeroMayor)
             {
-                numeroIntermedio = b;
+                numeroMayor  = b;
             }
 
-            if (c > numeroIntermedio)
+            if (c > numeroMayor)
             {
-                numeroIntermedio = c;
+                numeroMayor = c;
             }
 
-            return numeroIntermedio;
+            return numeroMayor;
         }
 
         private int calcularMenor(int a, int b, int c)
         {
-            int numeroIntermedio = a;
+            int numeroMenor = a;
 
-            if (b < numeroIntermedio)
+            if (b < numeroMenor)
             {
-                numeroIntermedio = b;
+                numeroMenor = b;
             }
 
-            if (c < numeroIntermedio)
+            if (c < numeroMenor)
             {
-                numeroIntermedio = c;
+                numeroMenor = c;
             }
 
-            return numeroIntermedio;
+            return numeroMenor;
         }
     }
 }
