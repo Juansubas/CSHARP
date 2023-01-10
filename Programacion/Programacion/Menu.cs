@@ -30,5 +30,10 @@
             Form calcImc = new CalcImc();
             calcImc.Show();
         }
+
+        private void Menu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
