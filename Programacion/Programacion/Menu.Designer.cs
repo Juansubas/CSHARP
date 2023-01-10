@@ -31,6 +31,7 @@
             this.btnGestionClientes = new System.Windows.Forms.Button();
             this.btnAdult = new System.Windows.Forms.Button();
             this.btnNumber = new System.Windows.Forms.Button();
+            this.btnCalcImc = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnGestionClientes
@@ -48,7 +49,7 @@
             // 
             this.btnAdult.Location = new System.Drawing.Point(422, 96);
             this.btnAdult.Name = "btnAdult";
-            this.btnAdult.Size = new System.Drawing.Size(124, 55);
+            this.btnAdult.Size = new System.Drawing.Size(124, 51);
             this.btnAdult.TabIndex = 1;
             this.btnAdult.Text = "Adulto o Menor";
             this.btnAdult.UseVisualStyleBackColor = true;
@@ -64,11 +65,22 @@
             this.btnNumber.UseVisualStyleBackColor = true;
             this.btnNumber.Click += new System.EventHandler(this.btnNumber_Click);
             // 
+            // btnCalcImc
+            // 
+            this.btnCalcImc.Location = new System.Drawing.Point(252, 99);
+            this.btnCalcImc.Name = "btnCalcImc";
+            this.btnCalcImc.Size = new System.Drawing.Size(124, 48);
+            this.btnCalcImc.TabIndex = 3;
+            this.btnCalcImc.Text = "IMC CALCULATOR";
+            this.btnCalcImc.UseVisualStyleBackColor = true;
+            this.btnCalcImc.Click += new System.EventHandler(this.btnCalcImc_Click);
+            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(605, 245);
+            this.Controls.Add(this.btnCalcImc);
             this.Controls.Add(this.btnNumber);
             this.Controls.Add(this.btnAdult);
             this.Controls.Add(this.btnGestionClientes);
@@ -83,5 +95,6 @@
         private Button btnGestionClientes;
         private Button btnAdult;
         private Button btnNumber;
+        private Button btnCalcImc;
     }
 }

@@ -24,5 +24,11 @@
             Form listNumber = new ListNumber();
             listNumber.Show();
         }
+
+        private void btnCalcImc_Click(object sender, EventArgs e)
+        {
+            Form calcImc = new CalcImc();
+            calcImc.Show();
+        }
     }
 }
