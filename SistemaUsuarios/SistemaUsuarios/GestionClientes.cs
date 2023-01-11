@@ -23,14 +23,20 @@ namespace SistemaUsuarios
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
-        {
-            listClientes.Items.Add(txtNombre.Text);
+        {   
+            Cliente cliente = new Cliente();
+            cliente.Nombre = txtNombre.Text;
+            cliente.Apellido = txtApellido.Text;
+            cliente.Telefono = txtTelefono.Text;
+            cliente.TarjetaDeCredito = txtTarjeta.Text;
+
+            listClientes.Items.Add(cliente);
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            string holis = listClientes.SelectedItem.ToString();
-            listClientes.Items.Remove(holis);
+            int indice = listClientes.SelectedIndex;
+            listClientes.Items.RemoveAt(indice);
             MessageBox.Show("Eliminado con éxito");
         }
     }

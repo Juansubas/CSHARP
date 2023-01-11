@@ -33,6 +33,12 @@
             this.btnEliminar = new System.Windows.Forms.Button();
             this.btnGuardar = new System.Windows.Forms.Button();
             this.txtNombre = new System.Windows.Forms.TextBox();
+            this.txtApellido = new System.Windows.Forms.TextBox();
+            this.txtTelefono = new System.Windows.Forms.TextBox();
+            this.txtTarjeta = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // listClientes
@@ -65,9 +71,9 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(464, 60);
+            this.btnGuardar.Location = new System.Drawing.Point(320, 193);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(75, 23);
+            this.btnGuardar.Size = new System.Drawing.Size(219, 23);
             this.btnGuardar.TabIndex = 3;
             this.btnGuardar.Text = "Agregar";
             this.btnGuardar.UseVisualStyleBackColor = true;
@@ -80,11 +86,65 @@
             this.txtNombre.Size = new System.Drawing.Size(159, 23);
             this.txtNombre.TabIndex = 4;
             // 
+            // txtApellido
+            // 
+            this.txtApellido.Location = new System.Drawing.Point(380, 69);
+            this.txtApellido.Name = "txtApellido";
+            this.txtApellido.Size = new System.Drawing.Size(159, 23);
+            this.txtApellido.TabIndex = 5;
+            // 
+            // txtTelefono
+            // 
+            this.txtTelefono.Location = new System.Drawing.Point(380, 111);
+            this.txtTelefono.Name = "txtTelefono";
+            this.txtTelefono.Size = new System.Drawing.Size(159, 23);
+            this.txtTelefono.TabIndex = 6;
+            // 
+            // txtTarjeta
+            // 
+            this.txtTarjeta.Location = new System.Drawing.Point(320, 164);
+            this.txtTarjeta.Name = "txtTarjeta";
+            this.txtTarjeta.Size = new System.Drawing.Size(219, 23);
+            this.txtTarjeta.TabIndex = 7;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(320, 69);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(54, 15);
+            this.label2.TabIndex = 8;
+            this.label2.Text = "Apellido:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(320, 111);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(55, 15);
+            this.label3.TabIndex = 9;
+            this.label3.Text = "Telefono:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(320, 146);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(99, 15);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Tarjeta de Crédito";
+            // 
             // GestionClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(566, 306);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.txtTarjeta);
+            this.Controls.Add(this.txtTelefono);
+            this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.btnEliminar);
@@ -105,5 +165,11 @@
         private Button btnEliminar;
         private Button btnGuardar;
         private TextBox txtNombre;
+        private TextBox txtApellido;
+        private TextBox txtTelefono;
+        private TextBox txtTarjeta;
+        private Label label2;
+        private Label label3;
+        private Label label4;
     }
 }
