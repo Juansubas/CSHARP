@@ -16,3 +16,11 @@ D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.
 D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0-windows\SistemaUsuarios.genruntimeconfig.cache
 D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0-windows\ref\SistemaUsuarios.dll
 D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0-windows\SistemaUsuarios.GestionClientes.resources
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0-windows\SistemaUsuarios.dll.config
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0-windows\SistemaUsuarios.csproj.CopyComplete

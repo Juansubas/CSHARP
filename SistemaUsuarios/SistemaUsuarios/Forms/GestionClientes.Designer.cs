@@ -39,6 +39,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.lblEnunciado = new System.Windows.Forms.Label();
+            this.btnEdit = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.lblId = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // listClientes
@@ -134,11 +138,51 @@
             this.label4.TabIndex = 10;
             this.label4.Text = "Tarjeta de Crédito";
             // 
+            // lblEnunciado
+            // 
+            this.lblEnunciado.AutoSize = true;
+            this.lblEnunciado.Location = new System.Drawing.Point(380, 9);
+            this.lblEnunciado.Name = "lblEnunciado";
+            this.lblEnunciado.Size = new System.Drawing.Size(107, 15);
+            this.lblEnunciado.TabIndex = 11;
+            this.lblEnunciado.Text = "Agregue el Usuario";
+            // 
+            // btnEdit
+            // 
+            this.btnEdit.Location = new System.Drawing.Point(140, 277);
+            this.btnEdit.Name = "btnEdit";
+            this.btnEdit.Size = new System.Drawing.Size(75, 23);
+            this.btnEdit.TabIndex = 12;
+            this.btnEdit.Text = "Editar";
+            this.btnEdit.UseVisualStyleBackColor = true;
+            this.btnEdit.Click += new System.EventHandler(this.btnUpdate_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(323, 9);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(24, 15);
+            this.label5.TabIndex = 13;
+            this.label5.Text = "ID: ";
+            // 
+            // lblId
+            // 
+            this.lblId.AutoSize = true;
+            this.lblId.Location = new System.Drawing.Point(337, 9);
+            this.lblId.Name = "lblId";
+            this.lblId.Size = new System.Drawing.Size(0, 15);
+            this.lblId.TabIndex = 14;
+            // 
             // GestionClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(566, 306);
+            this.Controls.Add(this.lblId);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.btnEdit);
+            this.Controls.Add(this.lblEnunciado);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -171,5 +215,9 @@
         private Label label2;
         private Label label3;
         private Label label4;
+        private Label lblEnunciado;
+        private Button btnEdit;
+        private Label label5;
+        private Label lblId;
     }
 }

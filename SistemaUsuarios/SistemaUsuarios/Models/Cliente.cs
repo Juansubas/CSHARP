@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SistemaUsuarios
+namespace SistemaUsuarios.Models
 {
     public class Cliente
     {
+        public int Id { get; set; }
         public string Nombre { get; set; }
 
         public string Apellido { get; set; }
@@ -20,7 +21,7 @@ namespace SistemaUsuarios
         public string NombreCompleto
         {
             get { return Nombre + " " + Apellido; }
-        } 
+        }
 
         public override string ToString()
         {

@@ -33,7 +33,7 @@
             // 
             // btnGestionarClientes
             // 
-            this.btnGestionarClientes.Location = new System.Drawing.Point(220, 31);
+            this.btnGestionarClientes.Location = new System.Drawing.Point(131, 24);
             this.btnGestionarClientes.Name = "btnGestionarClientes";
             this.btnGestionarClientes.Size = new System.Drawing.Size(123, 57);
             this.btnGestionarClientes.TabIndex = 0;
@@ -41,13 +41,13 @@
             this.btnGestionarClientes.UseVisualStyleBackColor = true;
             this.btnGestionarClientes.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(497, 177);
+            this.ClientSize = new System.Drawing.Size(387, 116);
             this.Controls.Add(this.btnGestionarClientes);
-            this.Name = "Form1";
+            this.Name = "Menu";
             this.Text = "Form1";
             this.ResumeLayout(false);
 
