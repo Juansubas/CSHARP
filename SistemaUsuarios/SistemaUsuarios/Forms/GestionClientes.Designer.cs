@@ -43,6 +43,8 @@
             this.btnEdit = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.lblId = new System.Windows.Forms.Label();
+            this.btnConsulta = new System.Windows.Forms.Button();
+            this.btnBack = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listClientes
@@ -174,11 +176,33 @@
             this.lblId.Size = new System.Drawing.Size(0, 15);
             this.lblId.TabIndex = 14;
             // 
+            // btnConsulta
+            // 
+            this.btnConsulta.Location = new System.Drawing.Point(12, 277);
+            this.btnConsulta.Name = "btnConsulta";
+            this.btnConsulta.Size = new System.Drawing.Size(122, 53);
+            this.btnConsulta.TabIndex = 15;
+            this.btnConsulta.Text = "Consultar Información";
+            this.btnConsulta.UseVisualStyleBackColor = true;
+            this.btnConsulta.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btnBack
+            // 
+            this.btnBack.Location = new System.Drawing.Point(140, 306);
+            this.btnBack.Name = "btnBack";
+            this.btnBack.Size = new System.Drawing.Size(156, 24);
+            this.btnBack.TabIndex = 16;
+            this.btnBack.Text = "Volver";
+            this.btnBack.UseVisualStyleBackColor = true;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
+            // 
             // GestionClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(566, 306);
+            this.ClientSize = new System.Drawing.Size(566, 332);
+            this.Controls.Add(this.btnBack);
+            this.Controls.Add(this.btnConsulta);
             this.Controls.Add(this.lblId);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.btnEdit);
@@ -219,5 +243,7 @@
         private Button btnEdit;
         private Label label5;
         private Label lblId;
+        private Button btnConsulta;
+        private Button btnBack;
     }
 }
