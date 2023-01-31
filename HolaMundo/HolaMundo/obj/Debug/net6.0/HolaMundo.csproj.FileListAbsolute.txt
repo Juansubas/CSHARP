@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\bin\Debug\net6.0\HolaMundo.exe
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\bin\Debug\net6.0\HolaMundo.deps.json
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\bin\Debug\net6.0\HolaMundo.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\bin\Debug\net6.0\HolaMundo.dll
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\bin\Debug\net6.0\HolaMundo.pdb
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\HolaMundo.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\HolaMundo.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\HolaMundo.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\HolaMundo.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\HolaMundo.dll
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\refint\HolaMundo.dll
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\HolaMundo.pdb
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\HolaMundo.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\HolaMundo\HolaMundo\obj\Debug\net6.0\ref\HolaMundo.dll

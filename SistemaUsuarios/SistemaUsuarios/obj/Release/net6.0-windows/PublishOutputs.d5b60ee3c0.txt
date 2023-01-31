@@ -1,0 +1,12 @@
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\SistemaUsuarios.exe
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\SistemaUsuarios.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\SistemaUsuarios.deps.json
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\SistemaUsuarios.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\SistemaUsuarios.dll.config
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\SistemaUsuarios.pdb
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\CSHARP\Proyectos\SistemaUsuarios\SistemaUsuarios\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

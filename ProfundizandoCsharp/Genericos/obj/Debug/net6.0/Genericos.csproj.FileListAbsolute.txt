@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\bin\Debug\net6.0\Genericos.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\bin\Debug\net6.0\Genericos.deps.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\bin\Debug\net6.0\Genericos.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\bin\Debug\net6.0\Genericos.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\bin\Debug\net6.0\Genericos.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\Genericos.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\Genericos.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\Genericos.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\refint\Genericos.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\Genericos.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\Genericos.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Genericos\obj\Debug\net6.0\ref\Genericos.dll
