@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\bin\Debug\net6.0\GenericosRestricciones.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\bin\Debug\net6.0\GenericosRestricciones.deps.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\bin\Debug\net6.0\GenericosRestricciones.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\bin\Debug\net6.0\GenericosRestricciones.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\bin\Debug\net6.0\GenericosRestricciones.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\GenericosRestricciones.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\GenericosRestricciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\GenericosRestricciones.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\GenericosRestricciones.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\GenericosRestricciones.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\GenericosRestricciones.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\refint\GenericosRestricciones.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\GenericosRestricciones.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\GenericosRestricciones.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\GenericosRestricciones\obj\Debug\net6.0\ref\GenericosRestricciones.dll
