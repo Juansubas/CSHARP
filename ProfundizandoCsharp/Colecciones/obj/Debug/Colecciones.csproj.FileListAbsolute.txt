@@ -1,0 +1,8 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Colecciones\obj\Debug\Colecciones.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Colecciones\obj\Debug\Colecciones.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Colecciones\bin\Debug\Colecciones.exe.config
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Colecciones\bin\Debug\Colecciones.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Colecciones\bin\Debug\Colecciones.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Colecciones\obj\Debug\Colecciones.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Colecciones\obj\Debug\Colecciones.pdb
