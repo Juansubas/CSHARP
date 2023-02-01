@@ -1,0 +1,8 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionQueue\bin\Debug\ColeccionQueue.exe.config
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionQueue\bin\Debug\ColeccionQueue.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionQueue\bin\Debug\ColeccionQueue.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionQueue\obj\Debug\ColeccionQueue.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionQueue\obj\Debug\ColeccionQueue.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionQueue\obj\Debug\ColeccionQueue.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionQueue\obj\Debug\ColeccionQueue.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionQueue\obj\Debug\ColeccionQueue.pdb
