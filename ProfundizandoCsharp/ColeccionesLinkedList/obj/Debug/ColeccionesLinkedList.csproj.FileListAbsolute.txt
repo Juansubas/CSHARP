@@ -1,0 +1,8 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionesLinkedList\bin\Debug\ColeccionesLinkedList.exe.config
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionesLinkedList\bin\Debug\ColeccionesLinkedList.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionesLinkedList\bin\Debug\ColeccionesLinkedList.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionesLinkedList\obj\Debug\ColeccionesLinkedList.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionesLinkedList\obj\Debug\ColeccionesLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionesLinkedList\obj\Debug\ColeccionesLinkedList.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionesLinkedList\obj\Debug\ColeccionesLinkedList.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ColeccionesLinkedList\obj\Debug\ColeccionesLinkedList.pdb
