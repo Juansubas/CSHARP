@@ -6,7 +6,12 @@ namespace Genericos
     {
         static void Main(string[] args)
         {
-            AlmacenObjetos archivos = new AlmacenObjetos(4);
+            /*
+             *Especificamos que archivos será un objeto
+             *de la clase AlmacenObjetos, sin embargo 
+             *debemos especificarle que objetos recibirá
+             */
+            AlmacenObjetos<Empleado> archivos = new AlmacenObjetos<Empleado>(4);
 
             //archivos.agregar("Juan");
 
@@ -30,34 +35,34 @@ namespace Genericos
             //Dejando de ser automático fácilmente, además ya no es útil
             //El nombre de la variable que era nombrePersona
             //Además debemos invocar el Método para consultar
-            Empleado salarioEmpleado = (Empleado) archivos.getElemento(2);
+            Empleado salarioEmpleado = archivos.getElemento(2);
 
             Console.WriteLine(salarioEmpleado.getsalario());
 
         }
 
-        class AlmacenObjetos
+        class AlmacenObjetos<T>
         {
             public AlmacenObjetos(int z)
             {
                 //Con z indicamos el tamaño del array
-                datosElemento = new object[z];
+                datosElemento = new T[z];
             }
 
-            public void agregar(Object obj)
+            public void agregar(T obj)
             {
                 datosElemento[i] = obj;
 
                 i++; 
             }
 
-            public Object getElemento(int i)
+            public T getElemento(int i)
             {
                 return datosElemento[i];
             }
 
             //Como todo hereda de object, puede recibir cualquiera  
-            private Object[] datosElemento;
+            private T[] datosElemento;
 
             private int i = 0;
         }
