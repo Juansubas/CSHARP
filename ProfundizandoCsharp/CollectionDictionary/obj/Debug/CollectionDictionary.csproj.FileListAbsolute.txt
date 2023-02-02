@@ -1,0 +1,8 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionDictionary\obj\Debug\CollectionDictionary.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionDictionary\obj\Debug\CollectionDictionary.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionDictionary\obj\Debug\CollectionDictionary.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionDictionary\bin\Debug\CollectionDictionary.exe.config
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionDictionary\bin\Debug\CollectionDictionary.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionDictionary\bin\Debug\CollectionDictionary.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionDictionary\obj\Debug\CollectionDictionary.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionDictionary\obj\Debug\CollectionDictionary.pdb
