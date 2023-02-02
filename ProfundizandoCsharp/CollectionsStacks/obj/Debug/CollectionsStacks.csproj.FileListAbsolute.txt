@@ -1,0 +1,8 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionsStacks\bin\Debug\CollectionsStacks.exe.config
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionsStacks\bin\Debug\CollectionsStacks.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionsStacks\bin\Debug\CollectionsStacks.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionsStacks\obj\Debug\CollectionsStacks.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionsStacks\obj\Debug\CollectionsStacks.csproj.SuggestedBindingRedirects.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionsStacks\obj\Debug\CollectionsStacks.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionsStacks\obj\Debug\CollectionsStacks.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\CollectionsStacks\obj\Debug\CollectionsStacks.pdb
