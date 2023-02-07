@@ -12,6 +12,7 @@ namespace ProyectoHerencia
 
             Gorila miCopito = new Gorila("Copito");
 
+
             Mamiferos[] almacenAnimales = new Mamiferos[3];
 
             almacenAnimales[0] = miBabieca;
@@ -20,7 +21,10 @@ namespace ProyectoHerencia
 
             almacenAnimales[2] = miCopito;
 
-            almacenAnimales[1].getNombre();
+            foreach (var item in almacenAnimales)
+            {
+                item.pensar();
+            }
         }   
     }
 
@@ -35,6 +39,8 @@ namespace ProyectoHerencia
         {
             Console.WriteLine("Soy Capaz de respirar");
         }
+
+        public virtual void pensar() => Console.WriteLine("Pensamiento báscio Instintivo");
 
         public void cuidarCrias()
         {
@@ -61,7 +67,7 @@ namespace ProyectoHerencia
         {
 
         }
-        public void pensar() => Console.WriteLine("Soy capaz de pensar ¿?");
+        public override void pensar() => Console.WriteLine("Soy capaz de pensar ¿?");
     }
     
     class Gorila : Mamiferos
@@ -70,6 +76,8 @@ namespace ProyectoHerencia
         {
 
         }
+
+        public override void pensar() => Console.WriteLine("Pensamiento institivo avanzado");
         public void trepar() => Console.WriteLine("Soy capaz de trepar");
     }
 }
