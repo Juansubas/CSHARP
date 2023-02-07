@@ -6,14 +6,22 @@ namespace ProyectoHerencia
     {
         static void Main(string[] args)
         {
-            Caballo Babieca = new Caballo("Babieca");
+            Caballo miBabieca = new Caballo("Babieca");
 
-            Humano Juan = new Humano("Juan");
+            Humano miJuan = new Humano("Juan");
 
-            Gorila Copito = new Gorila("Copito");
+            Gorila miCopito = new Gorila("Copito");
 
-            Babieca.galopar();
-        }
+            Mamiferos[] almacenAnimales = new Mamiferos[3];
+
+            almacenAnimales[0] = miBabieca;
+
+            almacenAnimales[1] = miJuan;
+
+            almacenAnimales[2] = miCopito;
+
+            almacenAnimales[1].getNombre();
+        }   
     }
 
     class Mamiferos
@@ -32,6 +40,8 @@ namespace ProyectoHerencia
         {
             Console.WriteLine("Cuido de mis crias hasta que se valgan por si solas");
         }
+
+        public void getNombre() => Console.WriteLine("El nombre del ser vivo es: " + nombreSerVivo);
 
         private String nombreSerVivo;
     }
