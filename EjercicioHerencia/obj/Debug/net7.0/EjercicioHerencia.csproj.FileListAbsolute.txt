@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\bin\Debug\net7.0\EjercicioHerencia.exe
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\bin\Debug\net7.0\EjercicioHerencia.deps.json
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\bin\Debug\net7.0\EjercicioHerencia.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\bin\Debug\net7.0\EjercicioHerencia.dll
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\bin\Debug\net7.0\EjercicioHerencia.pdb
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\EjercicioHerencia.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\EjercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\EjercicioHerencia.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\EjercicioHerencia.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\EjercicioHerencia.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\EjercicioHerencia.dll
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\refint\EjercicioHerencia.dll
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\EjercicioHerencia.pdb
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\EjercicioHerencia.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\EjercicioHerencia\obj\Debug\net7.0\ref\EjercicioHerencia.dll
