@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\Struct\bin\Debug\net7.0\Struct.exe
+D:\Programacion\CSHARP\Proyectos\Struct\bin\Debug\net7.0\Struct.deps.json
+D:\Programacion\CSHARP\Proyectos\Struct\bin\Debug\net7.0\Struct.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\Struct\bin\Debug\net7.0\Struct.dll
+D:\Programacion\CSHARP\Proyectos\Struct\bin\Debug\net7.0\Struct.pdb
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\Struct.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\Struct.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\Struct.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\Struct.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\Struct.dll
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\refint\Struct.dll
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\Struct.pdb
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\Struct.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\Struct\obj\Debug\net7.0\ref\Struct.dll
