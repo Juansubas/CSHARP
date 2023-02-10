@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\Enum\bin\Debug\net7.0\Enum.exe
+D:\Programacion\CSHARP\Proyectos\Enum\bin\Debug\net7.0\Enum.deps.json
+D:\Programacion\CSHARP\Proyectos\Enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\Enum\bin\Debug\net7.0\Enum.dll
+D:\Programacion\CSHARP\Proyectos\Enum\bin\Debug\net7.0\Enum.pdb
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\Enum.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\Enum.dll
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\refint\Enum.dll
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\Enum.pdb
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\Enum\obj\Debug\net7.0\ref\Enum.dll
