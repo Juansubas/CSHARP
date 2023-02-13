@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\bin\Debug\net7.0\ExpresionesLambda.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\bin\Debug\net7.0\ExpresionesLambda.deps.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\bin\Debug\net7.0\ExpresionesLambda.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\bin\Debug\net7.0\ExpresionesLambda.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\bin\Debug\net7.0\ExpresionesLambda.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ExpresionesLambda.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ExpresionesLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ExpresionesLambda.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ExpresionesLambda.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ExpresionesLambda.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ExpresionesLambda.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\refint\ExpresionesLambda.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ExpresionesLambda.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ExpresionesLambda.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\ExpresionesLambda\obj\Debug\net7.0\ref\ExpresionesLambda.dll
