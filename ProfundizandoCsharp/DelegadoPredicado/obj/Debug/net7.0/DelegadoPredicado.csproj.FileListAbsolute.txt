@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\bin\Debug\net7.0\DelegadoPredicado.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\bin\Debug\net7.0\DelegadoPredicado.deps.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\bin\Debug\net7.0\DelegadoPredicado.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\bin\Debug\net7.0\DelegadoPredicado.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\bin\Debug\net7.0\DelegadoPredicado.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\DelegadoPredicado.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\DelegadoPredicado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\DelegadoPredicado.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\DelegadoPredicado.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\DelegadoPredicado.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\DelegadoPredicado.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\refint\DelegadoPredicado.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\DelegadoPredicado.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\DelegadoPredicado.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicado\obj\Debug\net7.0\ref\DelegadoPredicado.dll
