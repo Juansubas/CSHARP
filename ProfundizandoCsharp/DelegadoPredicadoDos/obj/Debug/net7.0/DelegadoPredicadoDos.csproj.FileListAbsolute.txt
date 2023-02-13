@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\bin\Debug\net7.0\DelegadoPredicadoDos.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\bin\Debug\net7.0\DelegadoPredicadoDos.deps.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\bin\Debug\net7.0\DelegadoPredicadoDos.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\bin\Debug\net7.0\DelegadoPredicadoDos.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\bin\Debug\net7.0\DelegadoPredicadoDos.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\DelegadoPredicadoDos.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\DelegadoPredicadoDos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\DelegadoPredicadoDos.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\DelegadoPredicadoDos.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\DelegadoPredicadoDos.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\DelegadoPredicadoDos.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\refint\DelegadoPredicadoDos.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\DelegadoPredicadoDos.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\DelegadoPredicadoDos.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\DelegadoPredicadoDos\obj\Debug\net7.0\ref\DelegadoPredicadoDos.dll
