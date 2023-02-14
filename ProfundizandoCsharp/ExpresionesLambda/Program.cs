@@ -16,7 +16,7 @@
         List<int> numerosPares = numeros.FindAll(x => x%2 == 0);
 
         //uNA LÍNEA
-        numeros.ForEach(numero => Console.WriteLine(numero));
+        numeros.ForEach(numero => Console. WriteLine(numero));
 
         //Varias Lineas
         numeros.ForEach(numero =>
