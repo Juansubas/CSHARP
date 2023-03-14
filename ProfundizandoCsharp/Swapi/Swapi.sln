@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicio", "Servicio", "{C09613A5-7ABA-413B-859C-A2AF9E3F0EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapi.Core", "Swapi.Core\Swapi.Core.csproj", "{19AC7EE2-9465-4434-92EC-11553F41C2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapi.Infrastructure", "Swapi.Infrastructure\Swapi.Infrastructure.csproj", "{E49237DF-53E9-4066-8024-9E9535C1DA6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapi.Service", "Swapi.Service\Swapi.Service.csproj", "{9A107101-8881-4FB9-A6B9-826CC2390738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AC7EE2-9465-4434-92EC-11553F41C2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AC7EE2-9465-4434-92EC-11553F41C2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AC7EE2-9465-4434-92EC-11553F41C2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AC7EE2-9465-4434-92EC-11553F41C2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E49237DF-53E9-4066-8024-9E9535C1DA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49237DF-53E9-4066-8024-9E9535C1DA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49237DF-53E9-4066-8024-9E9535C1DA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49237DF-53E9-4066-8024-9E9535C1DA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A107101-8881-4FB9-A6B9-826CC2390738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A107101-8881-4FB9-A6B9-826CC2390738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A107101-8881-4FB9-A6B9-826CC2390738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A107101-8881-4FB9-A6B9-826CC2390738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19AC7EE2-9465-4434-92EC-11553F41C2A1} = {C09613A5-7ABA-413B-859C-A2AF9E3F0EFE}
+		{E49237DF-53E9-4066-8024-9E9535C1DA6D} = {C09613A5-7ABA-413B-859C-A2AF9E3F0EFE}
+		{9A107101-8881-4FB9-A6B9-826CC2390738} = {C09613A5-7ABA-413B-859C-A2AF9E3F0EFE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48451C9E-E617-4A30-B45A-E84A10C51629}
+	EndGlobalSection
+EndGlobal

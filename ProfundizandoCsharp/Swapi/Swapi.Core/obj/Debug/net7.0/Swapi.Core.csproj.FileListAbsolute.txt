@@ -1,0 +1,12 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\bin\Debug\net7.0\Swapi.Core.deps.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\bin\Debug\net7.0\Swapi.Core.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\bin\Debug\net7.0\Swapi.Core.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\Swapi.Core.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\Swapi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\Swapi.Core.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\Swapi.Core.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\Swapi.Core.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\Swapi.Core.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\refint\Swapi.Core.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\Swapi.Core.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\Swapi\Swapi.Core\obj\Debug\net7.0\ref\Swapi.Core.dll
