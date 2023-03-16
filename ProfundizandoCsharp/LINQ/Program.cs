@@ -7,8 +7,18 @@ class Program
 {
     static void Main(string[] args)
     {
-        var ceo = new ControlEmpresasEmpleados();
-        ceo.getCEO();
+       var ce = new ControlEmpresasEmpleados();
+
+        try
+        {
+            var id = Convert.ToInt32(Console.ReadLine());
+            ce.getEmpleadosEmpresas(id);
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"Haz introducido algo diferente a un entero, mas informacion: {e.Message}");
+        }
+
     }
     static void LinqOne()
     {
