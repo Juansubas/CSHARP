@@ -4,40 +4,27 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Con esto acabamos de crear un nuevo hilo
-        Thread t = new Thread(MetodoSaludo);
-        //Ahora le indicamos que empiece
-        t.Start();
-        //thread synchronize 
-        t.Join();
-        //Process Synchronous
+        //Threads.Prueba();
+        CuentaBancaria CuentaFamilia = new CuentaBancaria(2000);
+        
+        //Creando un array de Hilos y lo inicializamos con 15 hilos
+        Thread[] hilosPersonas = new Thread[15];
 
-        Thread t2 = new Thread(MetodoSaludo);
-        t2.Start();
-        t2.Join();
+        for (int i = 0; i < 15; i++)
+        {
+            //Thread no acepta parametros normales
+            //Thread t = new Thread(CuentaFamilia.RetirarEfectivo(500));
 
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 1");
-        //Suspends the current thread for the spicified number of milliseconds
-        Thread.Sleep(1000);
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 1");
-        Thread.Sleep(1000);
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 1");
-        Thread.Sleep(1000);
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 1"); 
-        Thread.Sleep(1000);
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 1");
-    }
+            //Para solucionar esto haremos un metodo que llame al RetirarEfectivo
+            Thread t = new Thread(CuentaFamilia.VamosRetirarEfectivo);
 
-    static void MetodoSaludo()
-    {
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 2");
-        Thread.Sleep(1000);
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 2");
-        Thread.Sleep(1000);
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 2");
-        Thread.Sleep(1000);
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 2");
-        Thread.Sleep(1000);
-        Console.WriteLine("Hola alumnos desde thread (o  hilo) 2");
+            //Vamos a diferenciar los threads
+            t.Name= i.ToString();
+
+            //Almacenaremos 15 hilos
+            hilosPersonas[i] = t;
+        }
+
+        for (int i = 0; i < 15; i++) hilosPersonas[i].Start();
     }
 }
