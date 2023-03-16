@@ -25,6 +25,11 @@ class Program
             hilosPersonas[i] = t;
         }
 
-        for (int i = 0; i < 15; i++) hilosPersonas[i].Start();
+        // Iniciamos los hilos y fuera de eso los Sincronizamos 
+        for (int i = 0; i < 15; i++)
+        {
+            hilosPersonas[i].Start();
+            hilosPersonas[i].Join();
+        }
     }
 }

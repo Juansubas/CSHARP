@@ -14,7 +14,7 @@
         {
             if ((Saldo - cantidad) < 0)
             {
-                Console.WriteLine($"Losiento queda {Saldo} $ en la cuenta. Hilo: {Thread.CurrentThread.Name}");
+                Console.WriteLine($"Lo siento queda {Saldo} $ en la cuenta. Hilo: {Thread.CurrentThread.Name}");
 
                 return Saldo;
             }
