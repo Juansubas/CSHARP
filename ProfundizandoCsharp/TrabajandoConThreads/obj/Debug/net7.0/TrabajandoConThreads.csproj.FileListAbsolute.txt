@@ -1,0 +1,15 @@
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\bin\Debug\net7.0\TrabajandoConThreads.exe
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\bin\Debug\net7.0\TrabajandoConThreads.deps.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\bin\Debug\net7.0\TrabajandoConThreads.runtimeconfig.json
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\bin\Debug\net7.0\TrabajandoConThreads.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\bin\Debug\net7.0\TrabajandoConThreads.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\TrabajandoConThreads.csproj.AssemblyReference.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\TrabajandoConThreads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\TrabajandoConThreads.AssemblyInfoInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\TrabajandoConThreads.AssemblyInfo.cs
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\TrabajandoConThreads.csproj.CoreCompileInputs.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\TrabajandoConThreads.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\refint\TrabajandoConThreads.dll
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\TrabajandoConThreads.pdb
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\TrabajandoConThreads.genruntimeconfig.cache
+D:\Programacion\CSHARP\Proyectos\ProfundizandoCsharp\TrabajandoConThreads\obj\Debug\net7.0\ref\TrabajandoConThreads.dll
